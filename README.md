@@ -1,5 +1,11 @@
 ### OLA meu nome é Edilson! 👋
 
+<div align="center">
+  <a href="https://github.com/edilsonjunior2022">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edilsonjunior2022&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonjunior2022&layout=compact&langs_count=7&theme=gruvbox"/>
+</div>
+  
 <!--
 **edilsonjunior2022/edilsonjunior2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
